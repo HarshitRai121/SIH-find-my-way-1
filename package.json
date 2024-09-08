@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "leaflet": "^1.9.4",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
+    "next": "14.2.4",
+    "pathfinding": "^0.4.18",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "react-leaflet": "^4.2.1"
   },
   "devDependencies": {
     "postcss": "^8",
